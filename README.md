@@ -28,8 +28,8 @@ Ce projet permet de scraper et analyser les données des joueurs ATP et WTA en u
 
 ### Installation  
 ```bash
-git clone https://github.com/ton_github/tennis-data-analysis.git
-cd tennis-data-analysis
+git clone https://github.com/FUTFURY/Tennis_Web_Scrapping.git
+cd Tennis_Web_Scrapping
 pip install -r requirements.txt
 ```
 

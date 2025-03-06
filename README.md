@@ -17,6 +17,7 @@ Ce projet permet de scraper et analyser les données des joueurs ATP et WTA en u
  │
  ├── 📂 WTA                # Dossier similaire pour les joueuses WTA
  ├── chromedriver          # Exécutable pour Selenium
+ ├── requirements.txt
 ```
 
 ## 🚀 Installation et exécution  
@@ -29,7 +30,7 @@ Ce projet permet de scraper et analyser les données des joueurs ATP et WTA en u
 ### Installation  
 ```bash
 git clone https://github.com/FUTFURY/Tennis_Web_Scrapping.git
-cd Tennis_Web_Scrapping
+cd Tennis
 pip install -r requirements.txt
 ```
 
